@@ -13,7 +13,7 @@ body {
 header {
   max-width: 500px;
   text-align: center;
-  margin: 75px auto 75px;
+  margin: 55px auto;
 }
 
 h1 {
@@ -32,7 +32,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   max-width: 1140px;
-  margin: 0 auto;
+  margin: 0 auto 30px;
   justify-content: center;
   max-height: 930px;
 }
